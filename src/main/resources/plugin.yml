@@ -1,0 +1,9 @@
+name: OnlyFiveMinutes
+version: '${project.version}'
+main: me.rainstxrm.onlyfiveminutes.OnlyFiveMinutes
+api-version: 1.18
+description: You have 5 minutes to clear all the objectives. Good Luck
+commands:
+  fivemins:
+    description: The base for the Only Five Minutes commands
+    usage: /<command>
